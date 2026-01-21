@@ -1,0 +1,10 @@
+What is Web Scraping ?
+
+1. Extracting info from Web Page
+2. Filter Unnecessary Data and then Create Data
+3. To Store the Data in SQL
+
+Extracting the Data from the Page and looking at the Page Source 
+Python will look at this code and we give the python some instruction's and then it will take the information and save it
+We can store it in SQL Database That's it
+
